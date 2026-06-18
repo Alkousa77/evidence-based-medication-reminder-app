@@ -2,8 +2,9 @@
 Prototype medication adherence app developed with React Native Expo and a Python Flask backend.
 
 ## Project Structure
-backend/   Flask backend API, database, tests, seed data
-frontend-new/  React Native Expo frontend
+- backend/   Flask backend API, database, tests, seed data
+
+- frontend-new/  React Native Expo frontend
 
 ## Prerequisites
 - Python 3.13.13
