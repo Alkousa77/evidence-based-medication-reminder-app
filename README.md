@@ -32,7 +32,7 @@ cp .env.example .env
 
 Open `.env` and replace the placeholder values with your own.
 
-# Create/reset the database:
+### Create/reset the database:
 - python create_db.py
 
 # Run the backend:
@@ -45,7 +45,7 @@ Open `.env` and replace the placeholder values with your own.
 - cd frontend-new
 - npm install
 
-# Create the environment file
+### Create the environment file
 
 Copy the example environment file:
 
