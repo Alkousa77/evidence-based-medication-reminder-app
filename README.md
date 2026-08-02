@@ -22,7 +22,7 @@ Prototype medication adherence app developed with React Native Expo and a Python
 - python -m pip install --upgrade pip
 - pip install -r requirements.txt
 
-# Create the environment file
+### Create the environment file
 
 Copy the example environment file:
 
