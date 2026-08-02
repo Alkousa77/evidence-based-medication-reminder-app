@@ -22,6 +22,16 @@ Prototype medication adherence app developed with React Native Expo and a Python
 - python -m pip install --upgrade pip
 - pip install -r requirements.txt
 
+# Create the environment file
+
+Copy the example environment file:
+
+```bash
+cp .env.example .env
+```
+
+Open `.env` and replace the placeholder values with your own.
+
 # Create/reset the database:
 - python create_db.py
 
@@ -34,6 +44,16 @@ Prototype medication adherence app developed with React Native Expo and a Python
 ## Frontend Setup
 - cd frontend-new
 - npm install
+
+# Create the environment file
+
+Copy the example environment file:
+
+```bash
+cp .env.example .env
+```
+
+Open `.env` and replace the placeholder value with the ngrok URL generated after running `npx ngrok http 5000`
 
 # Run the frontend
 - npx expo start
